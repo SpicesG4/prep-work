@@ -10,7 +10,7 @@
 # Project- prep #1
 ## Names :
 - Baha'a Qasim. 
-- bara'ah Alomari. 
+- Bara'ah Alomari. 
 - Batool Ayyad. 
 - Rula Qasem. 
 - Sokiyna Jaber Mohammad Naser. 
