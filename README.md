@@ -120,7 +120,7 @@ Users and chefs  can communicate  with each others
 
 
 ### What components of your project will live on GitHub?
--  The source code except the environmental variables.
+-  The source code except the environmental variables,Node Modules.
 <p>&nbsp;</p>
 
 
